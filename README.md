@@ -1,13 +1,4 @@
-          _ ._  _ , _ ._
-        (_ ' ( `  )_  .__)
-      ( (  (    )   `)  ) _)
-     (__ (_   (_ . _) _) ,__)
-         `~~`\ ' . /`~~`
-              ;   ;
-              /   \
-_____________/_ __ \_____________
-
-###### i found this image on no where.
+oh.
 
 - 👋 Hi, I’m @dadabit
 - 👀 I’m interested in programming, games, food, biking and making things that others can see. 🐶
