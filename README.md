@@ -1,9 +1,4 @@
-oh.
-
-- 👋 Hi, I’m @dadabit
-- 👀 I’m interested in programming, games, food, biking and making things that others can see. 🐶
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on making things
+:)
 - 📫 How to reach me: email! sikai.dada@gmail.com or orboorbo16@gmail.com
 
 <!---
